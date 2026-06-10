@@ -1,0 +1,15 @@
+num_dim: 64
+num_negs: 5
+dropout: 0.3
+euclidean_dim: 64
+state_dim: 64
+geo_embed_dim: 16
+time_embed_dim: 24
+semantic_proj_dim: 20
+num_rbf_centers: 50
+num_heads: 4
+lat_range: [35.3, 36.0]
+lon_range: [139.2, 140.1]
+dt_min: 0
+dt_max: 1
+
